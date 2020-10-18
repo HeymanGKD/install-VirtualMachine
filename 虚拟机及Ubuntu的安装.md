@@ -31,7 +31,3 @@
 >![](https://github.com/HeymanGKD/install-VirtualMachine/blob/main/ubuntu%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BC%80%E6%9C%BA.png?raw=true)
 >![](https://github.com/HeymanGKD/install-VirtualMachine/blob/main/ubuntu%E5%BC%80%E6%9C%BA%E6%88%90%E5%8A%9F.png?raw=true)
 <p align="right">10/15</p>
-
->![]()
-+ 配置密钥 [^!]
-[^!]:又到了快乐的~~白嫖~~时间了吗？\(*ΦωΦ)ﾉ不是那个密钥啊。那没事了_(¦3」∠)_
